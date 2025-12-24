@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f737c4207fd1be3478677da7b3d17ded, type: 3}
+  m_Name: Shop
+  m_EditorClassIdentifier: 
+  shopItems:
+  - itemType: 1
+    prefab: {fileID: 107300907661311310, guid: b1fed76a0de03e24a86b0264afadd510, type: 3}
+    shopIcon: {fileID: 21300000, guid: c1a983861aacc90499e5bb0b1a443c2c, type: 3}
+    cost: 100
+  - itemType: 0
+    prefab: {fileID: 485338614357019323, guid: b262c3cbc4799134990ea14326b1c26d, type: 3}
+    shopIcon: {fileID: 21300000, guid: dd53c0b0627626a4892f60c66783f215, type: 3}
+    cost: 200
+  - itemType: 2
+    prefab: {fileID: 1031381778994878272, guid: ea96cf19c6ed503459742baa2a878516, type: 3}
+    shopIcon: {fileID: 21300000, guid: d86f7073d9564b9478f5084d22681bc7, type: 3}
+    cost: 100
+  - itemType: 3
+    prefab: {fileID: 3911381306605080885, guid: 9e3175c0365c1ac479a6a7b939fbb368, type: 3}
+    shopIcon: {fileID: 21300000, guid: af190ea6b0127f74695460b2e3fd99c0, type: 3}
+    cost: 100
+  - itemType: 4
+    prefab: {fileID: -3252293085624386839, guid: 7076386dac596a14f9d2881ce500b989, type: 3}
+    shopIcon: {fileID: 21300000, guid: 404718332fc50cb4ea70822e36a1887c, type: 3}
+    cost: 100
+  - itemType: 5
+    prefab: {fileID: -3624897662167199984, guid: b1baaba563631514da02bc2596d465b3, type: 3}
+    shopIcon: {fileID: 21300000, guid: 83938537e95d1824e953f0e9e7db05f3, type: 3}
+    cost: 100
