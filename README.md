@@ -1,7 +1,6 @@
 ## 3DPrintingVContainerSample
 
-Demo project about 3D printing management where I showcase my architecture: composition via VContainer (DI), reactive events with R3, async workflows with UniTask, UI animations with DOTween, configs via ScriptableObjects, and core systems (Cinemachine/NavMesh).  
-The code in this repo is cloned from my private repository, i plan to keep expanding the main repo and don’t want to make it public.
+Demo project about 3D printing management where I showcase my architecture: composition via VContainer (DI), reactive events with R3, async workflows with UniTask, UI animations with DOTween, configs via ScriptableObjects, and core systems (Cinemachine/NavMesh).
 
 ## Technologies & packages
 
